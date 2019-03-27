@@ -1,6 +1,6 @@
 # Arkanoid Exercise Project:  
 1. [Introduction](#introduction)  
-2. [Our Project:](#our-project)  
+2. [My Project:](#My-project)  
 3. [Dependencies:](#dependencies)  
 4. [Installation:](#installation)
 
@@ -15,7 +15,7 @@ As part of an OOP course we were given a task to teach us different elements:
 * keep open/closed principle states.
 * Working with GUI.
 
-## Our Project:
+## My Project:
 In this project we created a version of the old and familiar game. I added different levels with different difficulties.
 I also created a file who saves the high-scores of players across different games.
 
